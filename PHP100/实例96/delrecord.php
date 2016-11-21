@@ -1,0 +1,29 @@
+<?
+	$file=file("record.txt");
+	$intt=sizeof($file);
+	$file2=array();
+	$cont=$intt/3;
+
+	$conttj=1;
+	for($i=0;$i<$intt;$i=$i+3)
+	{
+		if($file[$i] == $id."\n")
+		{
+	    	$k=$i;
+		    for($j=$conttj;$j<=$cont;$j++)
+	    	{
+				$file[$k]=$file[$k+3];
+				$file[$k+1]=$file[$k+4];
+				$file[$k+2]=$file[$k+5];
+				$k=$k+3;
+			}
+			$conttj=$conttj+1;
+		}
+	}
+	$intt2=sizeof($file);
+	$f2=fopen("record.txt","w+");
+	for($i=0;$i<$intt2;$i++)
+	{
+		fputs($f2,$file[$i]);
+	}
+?>

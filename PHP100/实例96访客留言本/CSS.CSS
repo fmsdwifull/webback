@@ -1,0 +1,21 @@
+begin hiding TABLE {
+	COLOR: black; FONT-FAMILY: SimSun, Tahoma; FONT-SIZE: 9pt
+}
+TD {
+	COLOR: black; FONT-FAMILY: SimSun, Tahoma; FONT-SIZE: 9pt
+}
+INPUT {
+	COLOR: black; FONT-FAMILY: SimSun, Tahoma; FONT-SIZE: 9pt
+}
+SELECT {
+	FONT-FAMILY: SimSun, Tahoma; FONT-SIZE: 9pt
+}
+A:hover {
+	COLOR: #cc0033
+}
+.stbtm {
+	BACKGROUND-COLOR: #ffffff; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; COLOR: #000000; FONT-SIZE: 9pt; HEIGHT: 20px
+}
+.stedit {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 9pt
+}

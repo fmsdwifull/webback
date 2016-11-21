@@ -1,0 +1,15 @@
+
+
+<tr><td><FONT SIZE="+1"><b> 寒风 :</b></FONT><FONT SIZE="-2" color="red"><I>03:57</I></FONT>&nbsp;:<FONT SIZE="-1"> 大家好！我是寒风！<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 峰峰 :</b></FONT><FONT SIZE="-2" color="red"><I>03:58</I></FONT>&nbsp;:<FONT SIZE="-1"> 哈哈，又见到你这大虾了！<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 红十娘 :</b></FONT><FONT SIZE="-2" color="red"><I>04:01</I></FONT>&nbsp;:<FONT SIZE="-1"> 二位客官，你们好！欢迎光临逸春阁！<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 峰峰 :</b></FONT><FONT SIZE="-2" color="red"><I>04:04</I></FONT>&nbsp;:<FONT SIZE="-1"> 听说寒风大虾近来在修炼一种绝世武功，叫什么“Ph...”<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 红十娘 :</b></FONT><FONT SIZE="-2" color="red"><I>04:07</I></FONT>&nbsp;:<FONT SIZE="-1"> 就是那个PHP,呵呵呵...<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 红十娘 :</b></FONT><FONT SIZE="-2" color="red"><I>04:08</I></FONT>&nbsp;:<FONT SIZE="-1"> 这算什么绝世武功，亏你还在江湖上混...PHP...随便叫个IT小兵都能摆弄几下<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 峰峰 :</b></FONT><FONT SIZE="-2" color="red"><I>04:09</I></FONT>&nbsp;:<FONT SIZE="-1"> 嗯，是么？....还是红十娘见得多...<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 红十娘 :</b></FONT><FONT SIZE="-2" color="red"><I>04:13</I></FONT>&nbsp;:<FONT SIZE="-1"> 唉，常去网上溜溜，过客匆匆，耳闻目染...得也。<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 寒风 :</b></FONT><FONT SIZE="-2" color="red"><I>04:15</I></FONT>&nbsp;:<FONT SIZE="-1"> 现在php的确不算什么希奇武功！<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 寒风 :</b></FONT><FONT SIZE="-2" color="red"><I>04:18</I></FONT>&nbsp;:<FONT SIZE="-1"> But,It's 上乘武功也！修之得益匪浅，望励之！<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 寒风 :</b></FONT><FONT SIZE="-2" color="red"><I>04:20</I></FONT>&nbsp;:<FONT SIZE="-1"> 茶已过半余，寒某还有要事在身，失陪！<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 峰峰  :</b></FONT><FONT SIZE="-2" color="red"><I>04:21</I></FONT>&nbsp;:<FONT SIZE="-1"> 后会有期！<br></FONT></td></tr>
+<tr><td><FONT SIZE="+1"><b> 红十娘  :</b></FONT><FONT SIZE="-2" color="red"><I>04:22</I></FONT>&nbsp;:<FONT SIZE="-1"> 寒大虾慢走，希望能常见到你！<br></FONT></td></tr>
